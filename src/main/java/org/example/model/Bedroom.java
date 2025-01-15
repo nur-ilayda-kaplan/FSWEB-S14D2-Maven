@@ -1,4 +1,4 @@
-// Bedroom Class
+
 package org.example.model;
 
 public class Bedroom {

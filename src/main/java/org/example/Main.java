@@ -1,4 +1,4 @@
-// Main Class to Test
+
 package org.example;
 
 import org.example.model.*;
@@ -19,7 +19,7 @@ public class Main {
 
         Wardrobe wardrobe = new Wardrobe(100, 200, 80.5);
 
-        Carpet carpet = new Carpet(200, 300, PaintColor.RED);
+        Carpet carpet = new Carpet(200, 300, PaintColor.GREEN);
 
         Bedroom bedroom = new Bedroom("My Bedroom", wall1, wall2, wall3, wall4, ceiling, bed, lamp, wardrobe, carpet);
 

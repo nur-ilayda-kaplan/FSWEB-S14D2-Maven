@@ -1,4 +1,4 @@
-// Ceiling Class
+
 package org.example.model;
 
 import org.example.model.enums.PaintColor;
